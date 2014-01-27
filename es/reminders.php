@@ -15,7 +15,7 @@ return array(
 
 	"password" => "Las contraseñas deben tener 6 caracteres y ser iguales.",
 
-	"user"     => "No se pundo encontrar a ningún usuario con ese e-mail.",
+	"user"     => "No se pudo encontrar a ningún usuario con ese e-mail.",
 
 	"token"    => "La clave de reestablecimiento de contraseña es inválida.",
 
