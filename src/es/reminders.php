@@ -19,4 +19,6 @@ return array(
 
 	"token"    => "La clave de reestablecimiento de contraseña es inválida.",
 
+	"sent" => "¡Recordatorio de contraseña enviado!",	
+
 );
