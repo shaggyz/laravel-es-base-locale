@@ -13,6 +13,5 @@ Directory description:
 
 - src/en: The original locale file translated / Locales originales
 
-- tests/LocaleTest.php: Simple unit test that helps when laravel 
-  upgrades adds new keys (Testing rules :D).
+- tests/LocaleTest.php: Simple unit test that helps to add new keys when laravel is upgraded (Testing rules :D).
 
